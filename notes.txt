@@ -1,0 +1,19 @@
+
+future value = x(1+r)^n   x is present value
+
+
+
+present value = x/(1+r)^n   x is future cash flow
+
+
+continuous future value = x*exp(r*t)
+
+
+continuous present value = x*exp(-r*t)
+
+
+
+modern portfolio theory
+
+
+
